@@ -1,2 +1,3 @@
-# rhel-linux-administration-lab
-Hands-on rhel-linux-administration-lab
+# RHEL Linux Administration Lab
+
+Hands-on practice with Red Hat Enterprise Linux while preparing for the RHCSA certification
